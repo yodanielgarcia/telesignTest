@@ -10,3 +10,4 @@ Here is the information you will need:
   - `https://api.themoviedb.org/3/discover/movie?api_key=api_key`
 - To get the images, you will need a separate url
   - `http://image.tmdb.org/t/p/w500/your_poster_path`
+![size](https://github.com/yodanielgarcia/telesignTest/assets/31499858/f6d9aed5-a79f-4f84-8a97-d318967f1282)
